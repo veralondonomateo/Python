@@ -1,2 +1,9 @@
 # Python
-Plays width python
+    '''   
+~~~~~~~~~|~
+         |
+ 01234 J    
+~~~~~~~~~~~   
+'''
+
+Plays width python 
