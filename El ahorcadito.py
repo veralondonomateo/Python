@@ -120,3 +120,4 @@ if __name__ == '__main__':
         jugar_al_ahorcado(diccionario)
         if jugar_otra_vez() != 's': break
     despedida()
+    
