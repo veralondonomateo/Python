@@ -1,0 +1,8 @@
+def bisiesto(x):
+    if x % 4 == 0 and (not x%100 == 0) or x % 400 == 0:
+        texto = 'el año es bisiesto'
+    else:
+        texto = 'el año no es bisiesto'
+    return texto
+x = int(input('Elige un año apartir del 1600: '))
+print(x,bisiesto(x))
